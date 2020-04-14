@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="206564" started-at="2020-04-14T10:17:47 ART" finished-at="2020-04-14T10:21:14 ART">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="206564" started-at="2020-04-14T10:17:47 ART" finished-at="2020-04-14T10:21:14 ART">
+      <class name="testCases.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="17966" started-at="2020-04-14T10:17:47 ART" finished-at="2020-04-14T10:18:05 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Logueo()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="Logueo" duration-ms="3592" started-at="2020-04-14T10:18:05 ART" finished-at="2020-04-14T10:18:09 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logueo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="3780" started-at="2020-04-14T10:18:09 ART" finished-at="2020-04-14T10:18:13 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="19636" started-at="2020-04-14T10:18:13 ART" finished-at="2020-04-14T10:18:32 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchWithNoResults()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="searchWithNoResults" duration-ms="3404" started-at="2020-04-14T10:18:32 ART" finished-at="2020-04-14T10:18:36 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithNoResults -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="3737" started-at="2020-04-14T10:18:36 ART" finished-at="2020-04-14T10:18:39 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="18331" started-at="2020-04-14T10:18:39 ART" finished-at="2020-04-14T10:18:58 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchWithResults()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="searchWithResults" duration-ms="119" started-at="2020-04-14T10:18:58 ART" finished-at="2020-04-14T10:18:58 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithResults -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SearchTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="3767" started-at="2020-04-14T10:18:58 ART" finished-at="2020-04-14T10:19:02 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SearchTest -->
+      <class name="testCases.SectionsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SectionsTest@47c62251]" name="setUp" is-config="true" duration-ms="18125" started-at="2020-04-14T10:19:02 ART" finished-at="2020-04-14T10:19:20 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dressesSection()[pri:0, instance:testCases.SectionsTest@47c62251]" name="dressesSection" duration-ms="8461" started-at="2020-04-14T10:19:20 ART" finished-at="2020-04-14T10:19:28 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dressesSection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SectionsTest@47c62251]" name="tearDown" is-config="true" duration-ms="3705" started-at="2020-04-14T10:19:28 ART" finished-at="2020-04-14T10:19:32 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SectionsTest@47c62251]" name="setUp" is-config="true" duration-ms="18012" started-at="2020-04-14T10:19:32 ART" finished-at="2020-04-14T10:19:50 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="womenSection()[pri:0, instance:testCases.SectionsTest@47c62251]" name="womenSection" duration-ms="10405" started-at="2020-04-14T10:19:50 ART" finished-at="2020-04-14T10:20:00 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenSection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SectionsTest@47c62251]" name="tearDown" is-config="true" duration-ms="3749" started-at="2020-04-14T10:20:00 ART" finished-at="2020-04-14T10:20:04 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SectionsTest -->
+      <class name="testCases.SelectTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="17381" started-at="2020-04-14T10:20:04 ART" finished-at="2020-04-14T10:20:21 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchByInStock()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="searchByInStock" duration-ms="653" started-at="2020-04-14T10:20:21 ART" finished-at="2020-04-14T10:20:22 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByInStock -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="3708" started-at="2020-04-14T10:20:22 ART" finished-at="2020-04-14T10:20:26 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="18289" started-at="2020-04-14T10:20:26 ART" finished-at="2020-04-14T10:20:44 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchByLowestFirst()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="searchByLowestFirst" duration-ms="1784" started-at="2020-04-14T10:20:44 ART" finished-at="2020-04-14T10:20:46 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByLowestFirst -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="3728" started-at="2020-04-14T10:20:46 ART" finished-at="2020-04-14T10:20:50 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="18226" started-at="2020-04-14T10:20:50 ART" finished-at="2020-04-14T10:21:08 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchByNameAtoZ()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="searchByNameAtoZ" duration-ms="2235" started-at="2020-04-14T10:21:08 ART" finished-at="2020-04-14T10:21:10 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByNameAtoZ -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SelectTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="3709" started-at="2020-04-14T10:21:10 ART" finished-at="2020-04-14T10:21:14 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SelectTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
